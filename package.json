@@ -1,0 +1,19 @@
+{
+  "name": "ipfsproject",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "ipfs-http-client": "^60.0.1",
+    "multer": "^1.4.5-lts.1",
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "web3": "^4.11.0"
+  }
+}
